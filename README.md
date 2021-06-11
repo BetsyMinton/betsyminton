@@ -1,7 +1,12 @@
-### Hi there 👋
+<h1>Hi, I'm Betsy Minton</h1>
+  <p>*(She, her)*</p>
+
+<p>This page is a work in progress. I just learned that I could do this today!!! Thank you Women Who Code.  </p>
 
 <!--
 **BetsyMinton/betsyminton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
