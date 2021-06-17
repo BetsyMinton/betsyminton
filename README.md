@@ -5,12 +5,12 @@
 <h3>My Profession 👩🏼‍💻</h3>
 <p>Now that I run my own business, I get to put my education and experience to work.  I love coding and creating.  I help small businesses and non-profits with web development, graphics, social media, and branding.  I also help educators and schools through professional development and curriculum design.  I love maintaining a variety of interests since it helps me keep learning and fuels my creativity.  If you have a tech project you need help with, I'd love to meet with you and see how I can help. More more information visit: <a href="https://betsymintontech.com">http://betsymintontech.com</a>.</p>
 <h3>Lots of Links 🔗</h3>
-<a href="https://betsymintontech.com">My Website</a>
-<a href="https://scratch.mit.edu/users/superbetsy/">Scratch Profile</a>
-<a href="https://codepen.io/betsyminton">CodePen</a>
-<a href="https://twitter.com/betsymintontech">Twitter</a>
-<a href="https://www.linkedin.com/in/betsyminton/">LinkedIn</a>
-<a href="https://www.facebook.com/betsymintontech">Facebook</a>
-<a href="https://www.youtube.com/channel/UCxdfs-vmtxQ5ImoYj2IzGmw">YouTube</a>  
-  
+<ul><li><a href="https://betsymintontech.com">My Website</a></li>
+<li><a href="https://scratch.mit.edu/users/superbetsy/">Scratch Profile</a></li>
+<li><a href="https://codepen.io/betsyminton">CodePen</a></li>
+<li><a href="https://twitter.com/betsymintontech">Twitter</a></li>
+<li><a href="https://www.linkedin.com/in/betsyminton/">LinkedIn</a></li>
+<li><a href="https://www.facebook.com/betsymintontech">Facebook</a></li>
+<li><a href="https://www.youtube.com/channel/UCxdfs-vmtxQ5ImoYj2IzGmw">YouTube</a></li>  </ul>
+ </br>
 <p2><i>Thank you <a href="https://www.womenwhocode.com/" target="_blank">Women Who Code</a>, Connect Reimagine,and <a href="https://github.com/isabelcosta/" target="_blank">isabelcosta</a> for showing me how to create this special respository.</i></p>
