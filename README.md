@@ -1,21 +1,11 @@
 <h1>Hi, I'm Betsy Minton</h1>
   <p>*(She, her)*</p>
 
-<p>This page is a work in progress. I just learned that I could do this today!!! Thank you Women Who Code.  </p>
-
-<!--
-**BetsyMinton/betsyminton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>My Story</h3>
+<p>I got hooked on tech as a toddler when my dad brought home an Apple IIe. He color-coded my disks for me since I couldn't read yet. I had a smattering of coding experiences as a child.  Some BASIC from my dad, some LEGO Logo at school, but that was about it.  Life took me in a different direction, and I didn't get back into coding until I was an adult teaching kindergarten.  I hear about the Hour of Code and this adorable little robot called Bee-Bot.  I wanted to give my kindergarteners the same experiences I had as a kid and more.  Slowly I taught myself how to code again in block languages with Code.org, Scratch, and Mindstorms.  I also learned some HTML.  When I started my master's degree, I knew I wanted to combine my love of tech with my love of helping people.  I finally was able to take the formal front-end development classes I needed to consider myself a "real" coder.</p>
+</br>
+<h3>My Profession</h3>
+<p>Now that I run my own business, I get to put my education and experience to work.  I love coding and creating.  I help small businesses and non-profits with web development, graphics, social media, and branding.  I also help educators and schools through professional development and curriculum design.  I love maintaining a variety of interests since it helps me keep learning and fuels my creativity.  If you have a tech project you need help with, I'd love to meet with you and see how I can help.</p>
+  
+  
+<p2><i>Thank you Women Who Code, Connect Reimagine, and @isabelcosta for showing me how to create this special respository.</p>
